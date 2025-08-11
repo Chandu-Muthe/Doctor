@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "home": "首页",
+    "services": "服务",
+    "doctors": "医生",
+    "appointments": "预约",
+    "contact": "联系我们",
+    "about": "关于我们"
+  },
+
+  "hero": {
+    "title": "您的健康，我们的首要任务",
+    "subtitle": "专业医疗护理，个性化关注",
+    "cta": "预约咨询",
+    "description": "与我们的专业医生团队和最先进的设施一起体验世界级的医疗保健。"
+  },
+
+  "services": {
+    "title": "我们的医疗服务",
+    "subtitle": "为您的家庭提供全面的医疗保健解决方案",
+    "cards": {
+      "cardiology": {
+        "title": "心脏病学",
+        "description": "先进的心脏护理和心血管治疗"
+      },
+      "neurology": {
+        "title": "神经学",
+        "description": "大脑和神经系统的专业护理"
+      },
+      "orthopedics": {
+        "title": "骨科",
+        "description": "全面的骨骼和关节治疗"
+      },
+      "pediatrics": {
+        "title": "儿科",
+        "description": "儿童和婴儿的专业护理"
+      },
+      "dermatology": {
+        "title": "皮肤科",
+        "description": "皮肤护理和美容治疗"
+      },
+      "emergency": {
+        "title": "急诊",
+        "description": "24/7紧急医疗服务"
+      }
+    }
+  },
+
+  "doctors": {
+    "title": "认识我们的专家",
+    "subtitle": "经验丰富的高素质医生",
+    "specializations": {
+      "cardiologist": "心脏病专家",
+      "neurologist": "神经科专家",
+      "orthopedic": "骨科外科医生",
+      "pediatrician": "儿科医生",
+      "dermatologist": "皮肤科医生"
+    }
+  },
+
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们随时为您提供帮助",
+    "form": {
+      "name": "全名",
+      "email": "电子邮件地址",
+      "phone": "电话号码",
+      "message": "您的留言",
+      "submit": "发送消息"
+    },
+    "info": {
+      "address": "医疗中心大道123号，健康城，HC 12345",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@doctorsclinic.com"
+    }
+  },
+
+  "footer": {
+    "quickLinks": "快速链接",
+    "services": "服务",
+    "followUs": "关注我们",
+    "copyright": "© 2024 医生诊所。保留所有权利。"
+  },
+
+  "common": {
+    "loading": "加载中...",
+    "error": "出了点问题",
+    "retry": "重试",
+    "close": "关闭",
+    "save": "保存",
+    "cancel": "取消"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "doctors": "Doctors",
+    "appointments": "Appointments",
+    "contact": "Contact",
+    "about": "About Us"
+  },
+
+  "hero": {
+    "title": "Your Health, Our Priority",
+    "subtitle": "Expert medical care with personalized attention",
+    "cta": "Book Appointment",
+    "description": "Experience world-class healthcare with our team of specialized doctors and state-of-the-art facilities."
+  },
+
+  "services": {
+    "title": "Our Medical Services",
+    "subtitle": "Comprehensive healthcare solutions for your family",
+    "cards": {
+      "cardiology": {
+        "title": "Cardiology",
+        "description": "Advanced heart care and cardiovascular treatments"
+      },
+      "neurology": {
+        "title": "Neurology",
+        "description": "Expert brain and nervous system care"
+      },
+      "orthopedics": {
+        "title": "Orthopedics",
+        "description": "Comprehensive bone and joint treatments"
+      },
+      "pediatrics": {
+        "title": "Pediatrics",
+        "description": "Specialized care for children and infants"
+      },
+      "dermatology": {
+        "title": "Dermatology",
+        "description": "Skin care and cosmetic treatments"
+      },
+      "emergency": {
+        "title": "Emergency Care",
+        "description": "24/7 emergency medical services"
+      }
+    }
+  },
+
+  "doctors": {
+    "title": "Meet Our Specialists",
+    "subtitle": "Highly qualified doctors with years of experience",
+    "specializations": {
+      "cardiologist": "Cardiologist",
+      "neurologist": "Neurologist",
+      "orthopedic": "Orthopedic Surgeon",
+      "pediatrician": "Pediatrician",
+      "dermatologist": "Dermatologist"
+    }
+  },
+
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "We're here to help you",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "address": "123 Medical Center Drive, Healthcare City, HC 12345",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@doctorsclinic.com"
+    }
+  },
+
+  "footer": {
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "followUs": "Follow Us",
+    "copyright": "© 2024 Doctors Clinic. All rights reserved."
+  },
+
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}

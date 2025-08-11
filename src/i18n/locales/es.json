@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "doctors": "Doctores",
+    "appointments": "Citas",
+    "contact": "Contacto",
+    "about": "Sobre Nosotros"
+  },
+
+  "hero": {
+    "title": "Tu Salud, Nuestra Prioridad",
+    "subtitle": "Atención médica experta con atención personalizada",
+    "cta": "Reservar Cita",
+    "description": "Experimenta atención médica de clase mundial con nuestro equipo de doctores especializados e instalaciones de última generación."
+  },
+
+  "services": {
+    "title": "Nuestros Servicios Médicos",
+    "subtitle": "Soluciones de atención médica integral para tu familia",
+    "cards": {
+      "cardiology": {
+        "title": "Cardiología",
+        "description": "Atención cardíaca avanzada y tratamientos cardiovasculares"
+      },
+      "neurology": {
+        "title": "Neurología",
+        "description": "Atención experta del cerebro y sistema nervioso"
+      },
+      "orthopedics": {
+        "title": "Ortopedia",
+        "description": "Tratamientos óseos y articulares integrales"
+      },
+      "pediatrics": {
+        "title": "Pediatría",
+        "description": "Atención especializada para niños e infantes"
+      },
+      "dermatology": {
+        "title": "Dermatología",
+        "description": "Cuidado de la piel y tratamientos cosméticos"
+      },
+      "emergency": {
+        "title": "Emergencias",
+        "description": "Servicios médicos de emergencia 24/7"
+      }
+    }
+  },
+
+  "doctors": {
+    "title": "Conoce a Nuestros Especialistas",
+    "subtitle": "Doctores altamente calificados con años de experiencia",
+    "specializations": {
+      "cardiologist": "Cardiólogo",
+      "neurologist": "Neurólogo",
+      "orthopedic": "Cirujano Ortopédico",
+      "pediatrician": "Pediatra",
+      "dermatologist": "Dermatólogo"
+    }
+  },
+
+  "contact": {
+    "title": "Ponte en Contacto",
+    "subtitle": "Estamos aquí para ayudarte",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "message": "Tu Mensaje",
+      "submit": "Enviar Mensaje"
+    },
+    "info": {
+      "address": "123 Calle Centro Médico, Ciudad Salud, HC 12345",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@doctorsclinic.com"
+    }
+  },
+
+  "footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "services": "Servicios",
+    "followUs": "Síguenos",
+    "copyright": "© 2024 Clínica de Doctores. Todos los derechos reservados."
+  },
+
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "retry": "Intentar de Nuevo",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "cancel": "Cancelar"
+  }
+}

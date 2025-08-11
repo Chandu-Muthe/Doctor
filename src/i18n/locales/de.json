@@ -1,0 +1,93 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "doctors": "Ärzte",
+    "appointments": "Termine",
+    "contact": "Kontakt",
+    "about": "Über uns"
+  },
+
+  "hero": {
+    "title": "Ihre Gesundheit, unsere Priorität",
+    "subtitle": "Expertenmedizin mit persönlicher Betreuung",
+    "cta": "Termin buchen",
+    "description": "Erleben Sie erstklassige Gesundheitsversorgung mit unserem Team spezialisierter Ärzte und modernster Einrichtungen."
+  },
+
+  "services": {
+    "title": "Unsere medizinischen Dienstleistungen",
+    "subtitle": "Umfassende Gesundheitslösungen für Ihre Familie",
+    "cards": {
+      "cardiology": {
+        "title": "Kardiologie",
+        "description": "Fortschrittliche Herzversorgung und kardiovaskuläre Behandlungen"
+      },
+      "neurology": {
+        "title": "Neurologie",
+        "description": "Spezialisierte Versorgung für Gehirn und Nervensystem"
+      },
+      "orthopedics": {
+        "title": "Orthopädie",
+        "description": "Umfassende Knochen- und Gelenkbehandlungen"
+      },
+      "pediatrics": {
+        "title": "Pädiatrie",
+        "description": "Spezialisierte Versorgung für Kinder und Säuglinge"
+      },
+      "dermatology": {
+        "title": "Dermatologie",
+        "description": "Hautpflege und kosmetische Behandlungen"
+      },
+      "emergency": {
+        "title": "Notfallversorgung",
+        "description": "24/7 Notfalldienste"
+      }
+    }
+  },
+
+  "doctors": {
+    "title": "Lernen Sie unsere Spezialisten kennen",
+    "subtitle": "Hochqualifizierte Ärzte mit jahrelanger Erfahrung",
+    "specializations": {
+      "cardiologist": "Kardiologe",
+      "neurologist": "Neurologe",
+      "orthopedic": "Orthopäde",
+      "pediatrician": "Pädiater",
+      "dermatologist": "Dermatologe"
+    }
+  },
+
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Wir sind hier, um Ihnen zu helfen",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "phone": "Telefonnummer",
+      "message": "Ihre Nachricht",
+      "submit": "Nachricht senden"
+    },
+    "info": {
+      "address": "123 Medizinisches Zentrum, Gesundheitsstadt, HC 12345",
+      "phone": "+1 (555) 123-4567",
+      "email": "info@doctorsclinic.com"
+    }
+  },
+
+  "footer": {
+    "quickLinks": "Schnelllinks",
+    "services": "Dienstleistungen",
+    "followUs": "Folgen Sie uns",
+    "copyright": "© 2024 Ärzteklinik. Alle Rechte vorbehalten."
+  },
+
+  "common": {
+    "loading": "Laden...",
+    "error": "Etwas ist schief gelaufen",
+    "retry": "Erneut versuchen",
+    "close": "Schließen",
+    "save": "Speichern",
+    "cancel": "Abbrechen"
+  }
+}

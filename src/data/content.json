@@ -1,0 +1,59 @@
+{
+  "pages": {
+    "providers": {
+      "title": "Providers",
+      "sections": {
+        "disclosure": {
+          "title": "Disclosure of Ownership & Control Interest Form Requirements",
+          "content": "LIBERTY Dental Plan is required by Medicaid to have a current Disclosure of Ownership and Control Interest Form for Providers for every business participating in our Medicaid networks.",
+          "requirements": [
+            "LIBERTY has posted additional documents below to assist businesses in the completion of this form.",
+            "Disclosure of Ownership and Control Interest Form",
+            "Review of Ownership Disclosure Policy",
+            "A fillable PDF version of the Disclosure of Ownership and Control Interest Form for Providers can be completed and signed electronically using Adobe Sign, Docusign or similar software."
+          ],
+          "instructions": {
+            "title": "How to Complete Disclosure of Ownership and Conflict of Interest Forms",
+            "steps": [
+              "Appendix A- Disclosure or Ownership defines Disclosing Entities, Other Disclosing Entities, and provides requirements on what and who are required to disclose direct and indirect ownership.",
+              "DOO Example- All Boxes Must Be Completed even if the response is N/A.",
+              "Section 1 to Section 7: All questions MUST be answered on page 1.",
+              "Table 1: Disclosure Regarding Managing Employees must be populated and cannot be blank and cannot indicate N/A.",
+              "Table 2: Criminal Offense Disclosure must be completed. If it's not applicable enter N/A.",
+              "Table 3: Person(s) with Ownership or Control Interest Disclosure must be populated and cannot be blank and cannot indicate N/A.",
+              "Table 4: Direct or Indirect Ownership of 5% or more in a Subcontractor Disclosure must be populated and cannot be blank and cannot indicate N/A.",
+              "Table 5: Other Disclosing Entity Disclosure must be populated if it is applicable.",
+              "Table 6: Business Transactions Disclosure (Subcontractor) must be populated if it is applicable.",
+              "Table 7: Significant Business Transactions Disclosure must be populated if it is applicable.",
+              "Section B- Attestation: All sections must completed. The form must be signed and dated."
+            ]
+          }
+        },
+        "contract": {
+          "title": "Contract With Us",
+          "content": "Join our network of dental providers and expand your practice opportunities."
+        },
+        "portal": {
+          "title": "Provider Portal Registration",
+          "content": "Register for secure access to our provider portal for claims, eligibility, and more."
+        },
+        "resources": {
+          "title": "Provider Resource Library",
+          "items": [
+            "Directory Information Validation (DIV)",
+            "Provider TeleDentistry Resources",
+            "Provider COVID-19 Resources",
+            "Clinical Criteria Guidelines & Practice Parameters",
+            "Provider Compliance Training",
+            "Florida Medicaid Webinar",
+            "Americans with Disabilities Act (ADA) Survey",
+            "Frequently Asked Questions",
+            "Secured Documents",
+            "Self Service Tools",
+            "Provider Newsletters"
+          ]
+        }
+      }
+    }
+  }
+}
